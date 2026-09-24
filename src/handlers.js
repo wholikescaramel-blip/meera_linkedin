@@ -30,7 +30,18 @@ async function authorised(chatId) {
   return String(owner) === id;
 }
 
+// Any failure is reported in the chat, so Meera never waits on a silent error.
 export async function handleUpdate(update) {
+  const chatId = (update.callback_query?.message ?? update.message ?? update.channel_post)?.chat?.id;
+  try {
+    await route(update);
+  } catch (err) {
+    console.error('[update]', err);
+    if (chatId) await tg('sendMessage', { chat_id: chatId, text: `Something went wrong: ${err.message.slice(0, 300)}` }).catch(() => {});
+  }
+}
+
+async function route(update) {
   if (update.callback_query) {
     const cb = update.callback_query;
     if (!(await authorised(cb.message.chat.id))) return tg('answerCallbackQuery', { callback_query_id: cb.id });

@@ -3,9 +3,24 @@
 // waitUntil, which lasts up to maxDuration in vercel.json.
 import { waitUntil } from '@vercel/functions';
 import { handleUpdate } from '../src/handlers.js';
+import { storageName } from '../src/store.js';
 
 export default async function handler(req, res) {
-  if (req.method !== 'POST') return res.status(200).send('Skinstinct drafter is running.');
+  // GET is a health check: which settings are present (never their values).
+  if (req.method !== 'POST') {
+    const has = (...keys) => keys.some((k) => Boolean(process.env[k]));
+    return res.status(200).json({
+      status: 'Skinstinct drafter is running.',
+      storage: storageName,
+      env: {
+        TELEGRAM_BOT_TOKEN: has('TELEGRAM_BOT_TOKEN'),
+        GEMINI_API_KEY: has('GEMINI_API_KEY'),
+        TELEGRAM_WEBHOOK_SECRET: has('TELEGRAM_WEBHOOK_SECRET'),
+        ALLOWED_CHAT_IDS: has('ALLOWED_CHAT_IDS'),
+        redis: has('UPSTASH_REDIS_REST_URL', 'KV_REST_API_URL') && has('UPSTASH_REDIS_REST_TOKEN', 'KV_REST_API_TOKEN'),
+      },
+    });
+  }
 
   const secret = process.env.TELEGRAM_WEBHOOK_SECRET;
   if (!secret || req.headers['x-telegram-bot-api-secret-token'] !== secret) {
@@ -13,6 +28,6 @@ export default async function handler(req, res) {
   }
 
   const update = typeof req.body === 'string' ? JSON.parse(req.body) : req.body;
-  waitUntil(handleUpdate(update).catch((err) => console.error('[update]', err)));
+  waitUntil(handleUpdate(update));
   return res.status(200).json({ ok: true });
 }
