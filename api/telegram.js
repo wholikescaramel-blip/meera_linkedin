@@ -17,7 +17,7 @@ export default async function handler(req, res) {
         GEMINI_API_KEY: has('GEMINI_API_KEY'),
         TELEGRAM_WEBHOOK_SECRET: has('TELEGRAM_WEBHOOK_SECRET'),
         ALLOWED_CHAT_IDS: has('ALLOWED_CHAT_IDS'),
-        redis: has('UPSTASH_REDIS_REST_URL', 'KV_REST_API_URL') && has('UPSTASH_REDIS_REST_TOKEN', 'KV_REST_API_TOKEN'),
+        database: storageName !== 'local file',
       },
     });
   }

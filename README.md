@@ -24,8 +24,8 @@ Other commands:
 On Vercel, Telegram calls `api/telegram.js` for each message (a webhook), so nothing has to stay running on a laptop.
 
 1. Push this repo to GitHub, then on vercel.com choose **Add New → Project** and import it.
-2. In the project, go to **Storage → Create Database → Upstash for Redis (free)** and connect it. This adds the Redis env vars automatically.
-3. Under **Settings → Environment Variables**, add `TELEGRAM_BOT_TOKEN`, `GEMINI_API_KEY`, `TELEGRAM_WEBHOOK_SECRET` and `ALLOWED_CHAT_IDS`, using the same values as in `.env`. Then redeploy.
+2. Storage is Supabase: a table `skinstinct_kv` and a sequence, locked with row-level security so only the secret key can reach them. Upstash Redis also works if its env vars are set.
+3. Under **Settings → Environment Variables**, add `TELEGRAM_BOT_TOKEN`, `GEMINI_API_KEY`, `TELEGRAM_WEBHOOK_SECRET`, `ALLOWED_CHAT_IDS`, `SUPABASE_URL` and `SUPABASE_SECRET_KEY`, using the same values as in `.env`. Then redeploy.
 4. Point Telegram at the deployment: `npm run webhook -- https://<your-project>.vercel.app`
 
 Running `npm start` locally removes the webhook while it runs. Run step 4 again afterwards.
