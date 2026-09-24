@@ -1,0 +1,284 @@
+MEERA PILLAI / SKINSTINCT - VOICE & WORKING-STYLE GUIDE
+Derived from published/ (4 LinkedIn posts + 11 newsletters)
+Use as the voice reference for any draft written on Meera's behalf.
+======================================================================
+
+
+0. THE ONE-LINE VERSION
+----------------------------------------------------------------------
+A formulation scientist explaining, plainly and precisely, the gap
+between what skincare labels say and what the chemistry actually does -
+including where she herself got it wrong - and ending by telling the
+reader what question to ask next.
+
+
+1. WHO SHE IS WHEN SHE WRITES
+----------------------------------------------------------------------
+- Two years in pharmaceutical formulation. NOT a dermatologist, no
+  medical degree - and she says so. She writes only from what she
+  actually knows: ingredient behaviour, pH, stability, CoAs, bases,
+  batch testing, manufacturing.
+- Founder of an 18-month-old D2C brand in Mumbai. Writes as an
+  operator with real data (returns, repeat rates, CoA results), not
+  as an influencer.
+- Her reader: 28-40 year old urban Indian women who are tired of being
+  sold to. She treats them as intelligent adults who deserve the
+  mechanism, not the slogan.
+- Her stance on the industry: critical of systems, never of people.
+  "The system had a gap, the gap was not unusual."
+
+
+2. CORE VOICE TRAITS
+----------------------------------------------------------------------
+
+2.1 Precision over adjectives
+    She uses numbers where others use adjectives.
+    - pH 3.2, pH 5.5-5.8, "below about 4"
+    - "8 to 10 months", "within 20 minutes of application"
+    - 23% of returns, 71% from humid cities, dropped to 8%
+    - 67% repeat rate vs. 20-40% industry
+    Never "significant results" when she can say what the result was.
+
+2.2 Mechanism, not instruction
+    She almost never says "do X". She explains why X happens so the
+    reader arrives at the behaviour themselves.
+    "I think understanding the mechanism changes the behaviour more
+    than repeating the instruction does."
+
+2.3 Pre-empting the misreading
+    Her single most recognisable move. Nearly every piece contains an
+    explicit "here is what I am NOT saying" beat, usually past the
+    halfway mark:
+    - "I am not making a case that niacinamide doesn't work."
+    - "I want to be precise about what I'm not saying here."
+    - "I'm not saying natural ingredients are better or worse..."
+    - "I'm not trying to make you distrust every product on your shelf."
+    Pattern: "I'm not saying [strawman]. I'm saying [narrower, exact
+    claim]."
+
+2.4 Self-implication
+    She includes Skinstinct in the problem before critiquing others.
+    - "...by customers, by other brands, and by us in our early
+      formulations"
+    - "it should have been right the first time"
+    - "it took us embarrassingly long to make the connection"
+    - "having a pharmaceutical background doesn't make you immune..."
+
+2.5 Disclosing commercial stake
+    When a topic touches a product category, she states whether she
+    sells in it.
+    - "We don't currently sell a peptide product."
+    - "I'm not selling a sunscreen... This is not a setup for a
+      product launch."
+    - "Not from us specifically - from any brand..."
+
+2.6 Deliberate understatement / anti-hype
+    She actively deflates her own story.
+    - "It is not a particularly inspiring story. It is a documentation
+      gap and a decision to do something about it."
+    - "I'd rather publish that honestly than use language that implies
+      more than we've done."
+    - Replaces "celebration" with "a more accurate one".
+
+2.7 Honest uncertainty
+    - "When I don't know something, I'll say so."
+    - "I don't know how to separate 'the formulation works' from 'the
+      communication builds trust' in that number."
+    - Distinguishes strong evidence from thin evidence, explicitly.
+
+2.8 Even-handedness
+    She refuses binaries (natural vs synthetic, clean vs not). She
+    grants the other side its real point first ("What clean beauty
+    gets right:") and then narrows the critique.
+
+
+3. SENTENCE-LEVEL TEXTURE
+----------------------------------------------------------------------
+- Long explanatory sentences, then a short flat one that lands the
+  point:
+    "Most serums don't list their pH on the label. This is legal. It
+     is also not helpful."
+    "The base isn't decoration around the active. It determines
+     whether the active arrives."
+    "The actives were intact. The formulation was working as designed.
+     It was designed for the wrong context."
+- Paired contrast sentences: "It is X. It is also Y." / "Both are...
+  Both have..."
+- Plain declaratives. Very few rhetorical questions. No exclamation
+  marks.
+- First person singular ("I") for judgment and opinion; "we" for
+  company actions and formulation decisions.
+- British/Indian spelling: oxidise, sensitisation, colour, oestrogenic,
+  standardised, characterised.
+- Technical terms used correctly and explained in-line once (stratum
+  corneum, transepidermal water loss, CoA, INCI, vasodilation) - never
+  dumbed down, never left unexplained.
+- Dashes (" - ") for asides. Parentheses sparingly.
+- Recurring words: specific, meaningful, properly, honest/honestly,
+  documentation, the gap, worth, actually, useful information, the
+  evidence, formulation, base, vehicle.
+
+
+4. STRUCTURE OF A MEERA LINKEDIN POST
+----------------------------------------------------------------------
+Length: ~350-600 words. 6-9 paragraphs of prose. No bullets, no
+headers, no emojis, no hashtags.
+
+  1. OPEN ON A CONCRETE THING - one of:
+     a) A claim that challenges something the reader owns/believes
+        ("The niacinamide serum you're using probably has...")
+     b) A dated, specific scene
+        ("In 2021 I was sitting in a stability review meeting...")
+        ("Last September I was at a trade fair in Mumbai.")
+     c) A hard number from her own data
+        ("In the 12 months to June 2025, 23% of our product returns...")
+     Never open with a question, a hook-bait line, or "Let's talk about".
+
+  2. STATE THE STAKES in one or two sentences.
+     ("I want to explain why, because I've seen this misunderstood
+      enough times...")
+
+  3. EXPLAIN THE MECHANISM, often in a numbered-in-prose way
+     ("The second thing the percentage doesn't tell you..."
+      "The third thing is...").
+
+  4. GROUND IT IN SKINSTINCT'S OWN EXPERIENCE - usually a cost,
+     a delay or a mistake, not a win.
+
+  5. THE "WHAT I'M NOT SAYING" BEAT.
+
+  6. INDUSTRY-LEVEL OBSERVATION - why this gap persists (cost,
+     commercial pressure, nobody asks, regulation doesn't require it).
+
+  7. CLOSE WITH A QUESTION THE READER SHOULD ASK SOMEONE ELSE.
+     Signature closer shape:
+     "Ask [brand/manufacturer] for [specific documentation]. If the
+      answer is vague / doesn't arrive / they don't have it, that is
+      also useful information."
+     Variants seen: "that's useful information", "that tells you
+     something useful", "that's worth investigating further".
+     No CTA to buy. No "Follow for more". No "Thoughts?"
+
+
+5. NEWSLETTER FORMAT (for reference)
+----------------------------------------------------------------------
+- Opens "Hi," on its own line. Signs off "Meera". Nothing else.
+- Subject lines are plain and slightly wry, often with a parenthetical:
+    "The Vitamin C email (I've been putting this off)"
+    "pH - the question nobody puts on the label"
+    "18 months of Skinstinct. Some data, some honesty."
+- Slightly warmer and more personal than LinkedIn; admits
+  procrastination and reluctance openly.
+- Ends on a practical implication, sometimes a promise
+  ("When we get it right, I'll tell you exactly what we did and why.").
+
+
+6. CONTENT TERRITORY (her pillars)
+----------------------------------------------------------------------
+- Ingredient deep-dives: niacinamide, Vitamin C and its derivatives,
+  peptides, ceramides, SPF.
+- Formulation science: pH, bases/vehicles, penetration, concentration
+  thresholds, stability, batch variance.
+- India-specific context: humidity, climate-calibrated bases, Indian
+  UV levels, Mumbai/Chennai/Kochi/Kolkata, Indian labelling rules.
+- Industry transparency: "clinically tested", "natural", "clean",
+  "dermatologist approved", "multi-peptide complex" - unregulated or
+  misleading claims.
+- Founder story: told as documentation and decisions, never as
+  inspiration.
+- Brand philosophy: fragrance-free, no parabens (and the honest reason
+  why), publishing test data including unflattering early-stage data.
+
+Out of territory: medical/dermatological diagnosis, treating skin
+conditions, lifestyle/wellness, motivational founder content, hustle
+talk, competitor call-outs by name.
+
+
+7. THINGS MEERA NEVER DOES
+----------------------------------------------------------------------
+- Wellness language: "glow", "radiant", "skin-loving", "self-care
+  ritual", "nourish your skin", "game-changer", "holy grail".
+- Hype: "revolutionary", "breakthrough", "you won't believe", "the
+  secret the industry doesn't want you to know".
+- LinkedIn-isms: one-sentence-per-line broetry, "Here's the thing:",
+  "Let that sink in", "Agree?", emoji bullets, hashtag blocks,
+  "I'm humbled to announce".
+- Name-and-shame specific brands or people.
+- Claim more than the evidence supports. Overstating is, to her, the
+  exact sin she is writing against.
+- Invent numbers. Every figure in her writing is either from her own
+  data or attributable to a study.
+- Pitch the product in the body. Skinstinct appears as evidence, not
+  as an offer.
+- Speak as a doctor.
+
+
+8. HOW SHE WORKS (context for anyone drafting for her)
+----------------------------------------------------------------------
+- Captures constantly (2-3 Telegram notes a week: manufacturing floor
+  observations, customer DMs, late-night reading). Capture is not the
+  problem. Shaping is.
+- Stalls on the blank page: "I open the doc, I write two lines, I
+  decide it's not good enough, I close it." The value of a draft is
+  that it removes the blank page, not that it replaces her judgment.
+- She rejected a content writer whose posts were "grammatically clean
+  and factually accurate" because they did not sound like her.
+  Correct-but-generic is a failure, not a partial success. A draft
+  that needs rewriting costs her more time than no draft.
+- She rejected end-to-end tools twice. She wants to be the final
+  reviewer and the one who presses publish.
+- Her strongest post (niacinamide, 7 paragraphs) was long, technical
+  and drove 340 profile visits + 3 wholesale enquiries. Depth works
+  for her audience - do not shorten for "engagement".
+
+Implications for drafts:
+- Stay close to what her note actually says. Expand the mechanism;
+  don't invent the anecdote.
+- Mark anything that needs her verification: [VERIFY: figure],
+  [MEERA: add the batch number / date / what the manufacturer said].
+- Any news angle or industry data point must be real, recent and
+  cited with its source so she can check it. Never fabricate one to
+  make a note feel "current".
+- If a note does not have enough substance for a Meera-grade post,
+  say so rather than padding it.
+
+
+9. BEFORE / AFTER (illustrative, not from her notes)
+----------------------------------------------------------------------
+GENERIC (what she would reject):
+  "Did you know most sunscreens don't protect you the way you think?
+   ☀️ Here are 3 tips to maximise your SPF! Your skin will thank you.
+   #skincare #SPF #selfcare"
+
+MEERA:
+  "Most people apply between a quarter and half of the sunscreen that
+   the SPF rating on the bottle was tested with. At half the tested
+   amount, an SPF 30 behaves closer to an SPF 5 or 6. This is not a
+   rounding issue.
+
+   I'm not saying your sunscreen is badly made. I'm saying the number
+   on the label describes a lab condition almost nobody reproduces at
+   home..."
+
+
+10. QUICK SELF-CHECK BEFORE A DRAFT GOES TO MEERA
+----------------------------------------------------------------------
+[ ] Opens on a concrete claim, scene or number - not a question.
+[ ] At least one precise figure, and every figure is sourced or
+    flagged [VERIFY].
+[ ] Explains the mechanism, not just the advice.
+[ ] Includes a "what I'm not saying" beat.
+[ ] Skinstinct appears as evidence (ideally a cost or a mistake),
+    not as a pitch.
+[ ] Commercial stake disclosed if the topic touches a product
+    category.
+[ ] Ends with a question the reader should ask someone - and "that
+    is useful information".
+[ ] No emojis, hashtags, wellness words, hype, or broetry line breaks.
+[ ] British spelling.
+[ ] 350-600 words, prose paragraphs.
+[ ] Would Meera be comfortable defending every sentence to a
+    formulation chemist? If not, cut or flag it.
+
+======================================================================
+END

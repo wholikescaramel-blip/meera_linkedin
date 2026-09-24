@@ -1,0 +1,1 @@
+Made-up test notes (not Meera's real notes). Run: npm run try -- --file samples/strong_note.txt

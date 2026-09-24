@@ -1,0 +1,20 @@
+{
+  "name": "skinstinct-drafter",
+  "version": "1.0.0",
+  "description": "Turns Meera's Telegram notes into LinkedIn drafts in her voice, for her to review and post.",
+  "type": "module",
+  "scripts": {
+    "start": "node --env-file=.env src/bot.js",
+    "try": "node --env-file=.env src/try.js",
+    "backlog": "node --env-file=.env src/backlog.js",
+    "webhook": "node --env-file=.env src/setWebhook.js"
+  },
+  "engines": {
+    "node": ">=20.6"
+  },
+  "dependencies": {
+    "@google/genai": "^2.24.0",
+    "@upstash/redis": "^1.39.0",
+    "@vercel/functions": "^3.9.9"
+  }
+}
